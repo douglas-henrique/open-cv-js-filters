@@ -1,0 +1,22 @@
+body{
+    padding: 0px!important;
+    margin: 0px!important;
+}
+
+img{
+    max-height: 600px;
+    max-width: 600px;
+}
+
+canvas{
+    max-height: 600px;
+    max-width: 600px;
+}
+
+.container, .container-fluid{
+    padding:0px!important;
+} 
+
+.images-container{
+    margin-top: 2%;
+}
