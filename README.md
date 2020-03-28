@@ -2,7 +2,7 @@
 
 That is a simple web static project for image processing using opencv.js.
 
-You can see the example [aqui](https://douglas-henrique.github.io/open-cv-js-filters/)
+You can see the example [here](https://douglas-henrique.github.io/open-cv-js-filters/).
 
 ### What we use here
 
